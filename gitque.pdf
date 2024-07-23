@@ -1,0 +1,13 @@
+Sure, here are some common Git interview questions along with their answers:
+
+Basic Questions
+What is Git?
+
+Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's changes.
+What is a repository in Git?
+
+A repository (or repo) is a storage space where your project files and their revision history are stored. Repositories can be local or remote.
+What is the difference between Git and GitHub?
+
+Git is a version control system, while GitHub is a web-based platform that uses Git for version control and provides additional collaboration features.
+Intermediate Questions
